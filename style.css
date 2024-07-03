@@ -83,6 +83,7 @@ main {
     display: flex;
     width: 65%;
     max-width: 1200px;
+    min-width: 450px;
     margin: 0 auto;
     gap: 14px;
     border: 1px solid white;
@@ -155,7 +156,7 @@ footer > section:last-child {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     border-top: 1px solid rgb(51,51,51);
     gap: 34px;
 }
