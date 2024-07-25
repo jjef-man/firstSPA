@@ -84,7 +84,7 @@ main {
     display: flex;
     width: 65%;
     max-width: 1200px;
-    min-width: 300px;
+    min-width: 350px;
     margin: 0 auto;
     gap: 14px;
     border: 1px solid white;
@@ -107,6 +107,7 @@ main {
     align-items: center;
     border: transparent;
     background-color: transparent;
+    color: black;
     font-size: 1rem;
 }
 
