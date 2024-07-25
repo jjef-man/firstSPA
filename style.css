@@ -170,8 +170,12 @@ footer > section:last-child {
     color: black;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 640px) {
     footer > section:last-child {
         flex-direction: row;
+    }
+
+    .headerText {
+        margin-top: 8rem;
     }
 }
