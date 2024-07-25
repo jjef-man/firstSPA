@@ -75,7 +75,7 @@ main {
 .headerText {
     font-size: 5rem;
     font-family: sans-serif;
-    padding:30px;
+    padding: 30px;
     margin-top: 4rem;
 }
 
@@ -84,7 +84,7 @@ main {
     display: flex;
     width: 65%;
     max-width: 1200px;
-    min-width: 450px;
+    min-width: 300px;
     margin: 0 auto;
     gap: 14px;
     border: 1px solid white;
@@ -106,6 +106,7 @@ main {
     padding: 7px;
     align-items: center;
     border: transparent;
+    background-color: transparent;
     font-size: 1rem;
 }
 
@@ -120,6 +121,7 @@ input {
     color: black;
     flex: 1;
     font-size: 1.1rem;
+    min-width: 90px;
 }
 
 .shorts {
